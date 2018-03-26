@@ -1,0 +1,7 @@
+core:
+  version: 1.x
+  js:
+    js/dist/widgettoolbar.js: {}
+  dependencies:
+    - core/backbone
+    - core/jquery

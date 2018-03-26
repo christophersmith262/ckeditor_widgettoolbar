@@ -1,0 +1,7 @@
+name: CKEditor Widget Toolbar
+type: module
+description: 'A CKEditor plugin for providing toolbars above widgets.' 
+package: Componentize
+core: '8.x'
+dependencies:
+  - ckeditor
